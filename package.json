@@ -34,6 +34,9 @@
   "_moduleAliases": {
     "@": "."
   },
+   "engines": {
+    "node": ">=14"
+  },
   "description": "LERM (Learncast ERP/CRM) is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Advanced Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux",
   "main": "app.js",
   "keywords": [
